@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martapolcyn - currently an Applied Computer Science student.
+- 👋 Hi, I’m @martapolcyn - Applied Computer Science student and QA Engineer.
 - 🌱 I’m learning Java, Python, Android Studio and more!
 - 💞️ I’m looking to become a Junior Java Developer - take a look at my projects!
 
